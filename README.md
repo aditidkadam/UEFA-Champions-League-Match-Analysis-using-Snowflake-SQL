@@ -207,5 +207,5 @@ This project demonstrates the ability to analyze structured sports datasets insi
 **Aditi Kadam**
 Data Analyst | SQL | Snowflake | Data Analytics
 
-```
+
 
